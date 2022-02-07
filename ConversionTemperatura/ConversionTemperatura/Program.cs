@@ -10,9 +10,13 @@ namespace ConversionTemperatura
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola PROYECTO");
             Console.WriteLine("Lizzie Cerna");
             Console.WriteLine("Fredy Cerna");
+
+            Console.WriteLine("Ingresa un nuvero");
+            Console.ReadLine(); 
+
             Console.ReadKey();
         }
     }
