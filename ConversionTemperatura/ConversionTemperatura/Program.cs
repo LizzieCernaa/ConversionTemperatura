@@ -12,6 +12,7 @@ namespace ConversionTemperatura
         {
             Console.WriteLine("Hola mundo");
             Console.WriteLine("Lizzie Cerna");
+            Console.WriteLine("Fredy Cerna");
             Console.ReadKey();
         }
     }
