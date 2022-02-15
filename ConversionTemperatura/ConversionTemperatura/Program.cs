@@ -26,7 +26,6 @@ namespace ConversionTemperatura
             int multiplicacion = (int)(num * multi);
 
             Console.WriteLine("Los grados Fahrenheit son =" + resultado);
-            Console.ReadLine();
 
             Console.ReadKey();
         }
