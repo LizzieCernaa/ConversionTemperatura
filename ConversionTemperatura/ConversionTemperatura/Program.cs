@@ -15,6 +15,7 @@ namespace ConversionTemperatura
             Console.WriteLine("Lizzie Cerna");
             Console.WriteLine("Fredy Cerna");
             Console.WriteLine("Hola buen día Lizzie");
+            Console.WriteLine("Hola buen día Fredy");
 
             Console.WriteLine("Ingresa un nuvero");
             int num = int.Parse(Console.ReadLine());
